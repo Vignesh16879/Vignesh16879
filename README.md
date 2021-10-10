@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Vignesh16879
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Vignesh16879/Vignesh16879 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Vignesh Goswami
+2020152
+Section-A
